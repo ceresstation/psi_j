@@ -1,4 +1,3 @@
-.fa-alpha:before {
-    font-weight: 700;
-    content: '\03b1';
-}
+#How to Use Psi_J
+
+1) Don't
